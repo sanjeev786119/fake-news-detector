@@ -15,3 +15,4 @@ Scikit-learn
 Pandas, NumPy
 
 Jupyter Notebook
+ streamlit
